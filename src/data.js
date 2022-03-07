@@ -1,4 +1,4 @@
-export default [
+const data = [
     {
         title: "Mount Fuji",
         location: "Japan",
@@ -26,4 +26,6 @@ export default [
         description: "From a height, the waves crashing against the rock looked calmer than they were, belying the reality and severity of the wind and the waves. The sunlight hitting the point and a slightly slower shutter speed allowed for the waves to blend into each other, creating a slightly calmer effect.",
         imageUrl: "https://images.unsplash.com/photo-1565104013743-e8426eb9de33?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1430&q=80"
     }
-]
+];
+
+export default data;
